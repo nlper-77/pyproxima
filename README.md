@@ -1,7 +1,7 @@
 # Proxima
 
 ## proxima基本概念
-![proxima基本概念](img\db_mapping.png)
+![proxima基本概念](./img/db_mapping.png)
 类似于mysql，属于client-server模式
 ## pyproximabe 的安装
 要严格按照下面这个顺序来进行源码安装
